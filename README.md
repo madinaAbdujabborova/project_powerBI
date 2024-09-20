@@ -68,6 +68,9 @@ For more details, check the SQL queries folder.
 
 ## Screenshots
 Here are some screenshots from the Power BI dashboard:
+![telegram-cloud-photo-size-2-5434072471092455928-y](https://github.com/user-attachments/assets/7825fe77-db85-4bf8-9a2e-5225bb7f0b92)
+![telegram-cloud-photo-size-2-5434072471092455929-y](https://github.com/user-attachments/assets/91bbe52d-d96c-41f9-9f54-8cdb2505f481)
+![telegram-cloud-photo-size-2-5434072471092455930-y](https://github.com/user-attachments/assets/1abc255d-c3d7-4f14-b205-09d89946263e)
 
 ## Sales Overview:
 Product Performance:
