@@ -1,6 +1,6 @@
 # AdwentureWorks2019 Dashboard
 
-his repository contains Power BI reports and analyses built using the AdventureWorks2019 dataset. The project focuses on visualizing product-related data, including sales, profits, inventory, and customer behavior across different regions.
+Repository contains Power BI reports and analyses built using the AdventureWorks2019 dataset. The project focuses on visualizing product-related data, including sales, profits, inventory, and customer behavior across different regions.
 
 ## Table of Contents
 Overview
